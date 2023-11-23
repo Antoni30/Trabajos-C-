@@ -12,3 +12,18 @@ D:\Antoni\Computacion Grafica\WEB ABANZADA\Trabajo 5\obj\Debug\net8.0\refint\Tra
 D:\Antoni\Computacion Grafica\WEB ABANZADA\Trabajo 5\obj\Debug\net8.0\Trabajo 5.pdb
 D:\Antoni\Computacion Grafica\WEB ABANZADA\Trabajo 5\obj\Debug\net8.0\Trabajo 5.genruntimeconfig.cache
 D:\Antoni\Computacion Grafica\WEB ABANZADA\Trabajo 5\obj\Debug\net8.0\ref\Trabajo 5.dll
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\obj\Debug\net8.0\Trabajo 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\obj\Debug\net8.0\Trabajo 5.AssemblyInfoInputs.cache
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\obj\Debug\net8.0\Trabajo 5.AssemblyInfo.cs
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\obj\Debug\net8.0\Trabajo 5.csproj.CoreCompileInputs.cache
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\obj\Debug\net8.0\Trabajo 5.sourcelink.json
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\obj\Debug\net8.0\Trabajo 5.dll
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\obj\Debug\net8.0\refint\Trabajo 5.dll
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\obj\Debug\net8.0\Trabajo 5.pdb
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\bin\Debug\net8.0\Trabajo 5.exe
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\bin\Debug\net8.0\Trabajo 5.deps.json
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\bin\Debug\net8.0\Trabajo 5.runtimeconfig.json
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\bin\Debug\net8.0\Trabajo 5.dll
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\bin\Debug\net8.0\Trabajo 5.pdb
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\obj\Debug\net8.0\Trabajo 5.genruntimeconfig.cache
+D:\Antoni\GitUniversidad\Trabajos-C-\Trabajo 5\obj\Debug\net8.0\ref\Trabajo 5.dll

@@ -113,15 +113,15 @@ class Program
                         // mostramos la informacion que tenemos registrada en nuestras listas
                         Console.WriteLine("Datos Empresa");
                         // recorremos con un foreach donde empleado es un elemento de la lista empleados
-                        if (empleadoList.Count!=0 && gerenteList.Count!=0)
+                        if (empleadoList.Count!=0 || gerenteList.Count!=0)
                         {
                             foreach (Empleado empleado in empleadoList)
                             {
-                                Console.WriteLine($"Nombre: {empleado.getNombre()}, Salario: {empleado.getSalario()}, InfoExta: {empleado.IMostrarInformacion()}");
+                                Console.WriteLine($"Nombre: {empleado.getNombre()}, Salario: {empleado.getSalario()}, InfoExta: {empleado.IMostrarInformacion()},Salario Anual {empleado.salarioAnula()}");
                             }
                             foreach (Gerente gerente in gerenteList)
                             {
-                                Console.WriteLine($"Nombre: {gerente.getNombre()}, Salario: {gerente.getSalario()}, Departamento: {gerente.getDepartamento()}, InfoExta: {gerente.IMostrarInformacion()}");
+                                Console.WriteLine($"Nombre: {gerente.getNombre()}, Salario: {gerente.getSalario()}, Departamento: {gerente.getDepartamento()}, InfoExta: {gerente.IMostrarInformacion()},Salario Anual {gerente.salarioAnula()}");
                             }
                         }
                         else
